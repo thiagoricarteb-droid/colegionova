@@ -126,7 +126,7 @@ const Home: React.FC = () => {
               text: "Meu filho ama a escola! A equipe é muito acolhedora e o desenvolvimento dele foi incrível.",
               name: "Ana Carolina",
               role: "Mãe do Pedro (Infantil)",
-              img: "https://images.unsplash.com/photo-1494790108777-467efd4a2a2b?q=80&w=1974&auto=format&fit=crop"
+              img: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976&auto=format&fit=crop"
             },
             {
               text: "Ótima preparação para o vestibular. Minha filha passou em medicina graças ao apoio da escola.",
