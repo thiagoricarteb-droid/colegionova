@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
               </p>
               <p className="flex items-center gap-4">
                 <Mail className="text-brand-orange shrink-0" /> 
-                contato@colegionovageracao.com.br
+                contato@colegioinova.com.br
               </p>
               <p className="flex items-start gap-4">
                 <MapPin className="text-brand-orange shrink-0 mt-1" /> 

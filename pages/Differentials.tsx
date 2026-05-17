@@ -19,7 +19,7 @@ const Differentials: React.FC = () => {
     <>
       <div className="bg-gradient-to-br from-[#e1f0ff] to-[#f0f8ff] py-16 px-5 text-center border-b-4 border-brand-orange">
         <h1 className="font-poppins text-4xl md:text-5xl font-bold text-brand-blue mb-2">Nossos Diferenciais</h1>
-        <p className="text-xl text-[#3a5a6b]">O que faz do Nova Geração uma escola única</p>
+        <p className="text-xl text-[#3a5a6b]">O que faz do Colégio Inova uma escola única</p>
       </div>
 
       <div className="max-w-[1400px] mx-auto px-5 py-20">

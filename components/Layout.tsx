@@ -29,7 +29,7 @@ const Layout: React.FC = () => {
       <header className="bg-white shadow-sm sticky top-0 z-50">
         <div className="max-w-[1400px] mx-auto px-5 py-3 flex items-center justify-between flex-wrap">
           <Link to="/" className="font-poppins text-2xl font-bold text-brand-blue flex items-center gap-2" onClick={closeMenu}>
-            📚 Nova<span className="text-brand-orange font-normal">Geração</span>
+            📚 Colégio<span className="text-brand-orange font-normal"> Inova</span>
           </Link>
 
           {/* Mobile Menu Toggle */}
@@ -80,7 +80,7 @@ const Layout: React.FC = () => {
           {/* Col 1 */}
           <div>
             <div className="font-poppins text-2xl font-bold mb-3">
-              📚 Nova<span className="text-brand-orange">Geração</span>
+              📚 Colégio<span className="text-brand-orange"> Inova</span>
             </div>
             <p className="opacity-90 leading-relaxed mb-4">
               Educação que transforma futuros há mais de 25 anos. Da Educação Infantil ao Ensino Médio.
@@ -137,7 +137,7 @@ const Layout: React.FC = () => {
                 <Phone size={18} /> (11) 99999-9999
               </li>
               <li className="flex items-center gap-3 opacity-90">
-                <Mail size={18} /> contato@novageracao.com.br
+                <Mail size={18} /> contato@colegioinova.com.br
               </li>
               <li className="flex items-start gap-3 opacity-90">
                 <MapPin size={18} className="shrink-0 mt-1" /> Av. Paulista, 1500 - São Paulo/SP
@@ -150,7 +150,7 @@ const Layout: React.FC = () => {
         </div>
 
         <div className="border-t border-white/20 pt-8 text-center text-sm opacity-80">
-          <p>© 2025 Colégio Nova Geração · Todos os direitos reservados</p>
+          <p>© 2025 Colégio Inova · Todos os direitos reservados</p>
         </div>
       </footer>
     </div>
